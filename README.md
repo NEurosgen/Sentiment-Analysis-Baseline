@@ -29,7 +29,7 @@
 1. **Клонировать репозиторий**
     
 ```bash
-git clone (https://github.com/NEurosgen/Sentiment-Analysis-Baseline.git)
+git clone https://github.com/NEurosgen/Sentiment-Analysis-Baseline.git
 cd sentiment-baseline
 ```
 
