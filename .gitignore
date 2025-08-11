@@ -1,0 +1,7 @@
+archive/
+myenv
+src/data/
+src/__pycache__
+src/artifacts
+Main.py
+sentiment_analysis_report.txt
